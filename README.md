@@ -1,1 +1,27 @@
-# piyochanQuest
+# piyochanQuest  
+
+<img width="1123" alt="スクリーンショット 2021-09-30 9 19 25" src="https://user-images.githubusercontent.com/91469826/135366003-410d4ab6-e668-4e61-b17a-3e32d57d7239.png">
+
+
+いますぐプレイ  
+↓↓↓  
+https://yuno222.github.io/piyochanQuest/
+
+---
+
+### 操作方法
+- Aキー：左へ移動  
+- Dキー：右へ移動  
+
+- ジャンプボタン  
+1回クリックでジャンプ、2回クリック後長押しすると浮遊します。  
+<img width="100" alt="fly" src="https://user-images.githubusercontent.com/91469826/135369312-753a64b0-9634-4c4d-b572-58f34d2d23b0.png">
+
+- 攻撃ボタン  
+クチバシを飛ばして攻撃します。  
+<img width="95" alt="fire" src="https://user-images.githubusercontent.com/91469826/135369315-090ff28a-a689-4c54-ad39-983a7352f4db.png">
+
+- 特殊ボタン  
+クリックすると、超スピードで動いて周りの時間が止まります。  
+その間は敵の弾の上に乗ることもできます。  
+じゃがりこを消費して使用することができます。
