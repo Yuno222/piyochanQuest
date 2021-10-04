@@ -25,3 +25,4 @@ https://yuno222.github.io/piyochanQuest/
 クリックすると、超スピードで動いて周りの時間が止まります。  
 その間は敵の弾の上に乗ることもできます。  
 じゃがりこを消費して使用することができます。
+<img width="93" alt="特殊ボタン" src="https://user-images.githubusercontent.com/91469826/135787186-633dcf4b-4fec-4137-a973-66a036ec6fc5.png">
