@@ -1,8 +1,8 @@
 # piyochanQuest  
 <br/>
-### 概要
+### 概要  
 うちで飼っている鳥が可愛かったので、冒険させてみました。  
-作成期間約2ヶ月。
+作成期間約は2ヶ月。  
 使用したツールはUnity、スクリプトの言語はC#です。  
 <br/>
 <img width="1123" alt="スクリーンショット 2021-09-30 9 19 25" src="https://user-images.githubusercontent.com/91469826/135366003-410d4ab6-e668-4e61-b17a-3e32d57d7239.png">
