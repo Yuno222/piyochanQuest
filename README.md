@@ -22,7 +22,7 @@ https://yuno222.github.io/piyochanQuest/
 <img width="95" alt="fire" src="https://user-images.githubusercontent.com/91469826/135369315-090ff28a-a689-4c54-ad39-983a7352f4db.png">
 
 - 特殊ボタン  
-クリックすると、超スピードで動いて周りの時間が止まります。  
+クリックすると周りの時間が止まります。  
 その間は敵の弾の上に乗ることもできます。  
-じゃがりこを消費して使用することができます。
+じゃがりこ(?)を消費して使用することができます。
 <img width="93" alt="特殊ボタン" src="https://user-images.githubusercontent.com/91469826/135787186-633dcf4b-4fec-4137-a973-66a036ec6fc5.png">
