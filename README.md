@@ -1,5 +1,7 @@
 # piyochanQuest  
-
+うちで飼っている鳥が可愛かったので、冒険させてみました。  
+使用したツールはUnity、スクリプトの言語はC#です。  
+<br/>
 <img width="1123" alt="スクリーンショット 2021-09-30 9 19 25" src="https://user-images.githubusercontent.com/91469826/135366003-410d4ab6-e668-4e61-b17a-3e32d57d7239.png">
 
 
@@ -25,4 +27,8 @@ https://yuno222.github.io/piyochanQuest/
 クリックすると周りの時間が止まります。  
 その間は敵の弾の上に乗ることもできます。  
 じゃがりこ(?)を消費して使用することができます。
-<img width="93" alt="特殊ボタン" src="https://user-images.githubusercontent.com/91469826/135787186-633dcf4b-4fec-4137-a973-66a036ec6fc5.png">
+<img width="93" alt="特殊ボタン" src="https://user-images.githubusercontent.com/91469826/135787186-633dcf4b-4fec-4137-a973-66a036ec6fc5.png">  
+<br/>
+
+
+
